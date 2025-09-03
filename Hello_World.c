@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <conio.h>
-void main() {
+int main() {
     printf("Hello World");
     return 0;
 }
