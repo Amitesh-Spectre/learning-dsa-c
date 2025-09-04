@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 int main(){
     int n ,i;
@@ -14,5 +15,9 @@ int main(){
         printf("Factorial=%d",factorial);
     
     }
-
 }
+
+*/
+
+
+
